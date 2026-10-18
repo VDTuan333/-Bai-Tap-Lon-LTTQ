@@ -37,7 +37,7 @@
             // lblNhanVien
             // 
             this.lblNhanVien.AutoSize = true;
-            this.lblNhanVien.Location = new System.Drawing.Point(218, 55);
+            this.lblNhanVien.Location = new System.Drawing.Point(570, 37);
             this.lblNhanVien.Name = "lblNhanVien";
             this.lblNhanVien.Size = new System.Drawing.Size(44, 16);
             this.lblNhanVien.TabIndex = 0;
@@ -54,18 +54,19 @@
             // 
             // btnQuanLySan
             // 
-            this.btnQuanLySan.Location = new System.Drawing.Point(188, 200);
+            this.btnQuanLySan.Location = new System.Drawing.Point(223, 132);
             this.btnQuanLySan.Name = "btnQuanLySan";
-            this.btnQuanLySan.Size = new System.Drawing.Size(75, 23);
+            this.btnQuanLySan.Size = new System.Drawing.Size(103, 38);
             this.btnQuanLySan.TabIndex = 2;
             this.btnQuanLySan.Text = "&Quản lý sân";
             this.btnQuanLySan.UseVisualStyleBackColor = true;
+            this.btnQuanLySan.Click += new System.EventHandler(this.btnQuanLySan_Click);
             // 
             // btnDangXuat
             // 
-            this.btnDangXuat.Location = new System.Drawing.Point(188, 259);
+            this.btnDangXuat.Location = new System.Drawing.Point(223, 176);
             this.btnDangXuat.Name = "btnDangXuat";
-            this.btnDangXuat.Size = new System.Drawing.Size(75, 23);
+            this.btnDangXuat.Size = new System.Drawing.Size(103, 38);
             this.btnDangXuat.TabIndex = 3;
             this.btnDangXuat.Text = "Đăng xuất";
             this.btnDangXuat.UseVisualStyleBackColor = true;

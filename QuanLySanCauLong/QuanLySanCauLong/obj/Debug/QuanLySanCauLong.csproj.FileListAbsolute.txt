@@ -18,3 +18,4 @@ D:\UTC-LTTQ\Bai tap lon\-Bai-Tap-Lon-\QuanLySanCauLong\QuanLySanCauLong\obj\Debu
 D:\UTC-LTTQ\Bai tap lon\-Bai-Tap-Lon-\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.pdb
 D:\UTC-LTTQ\Bai tap lon\-Bai-Tap-Lon-\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.frmDangNhap.resources
 D:\UTC-LTTQ\Bai tap lon\-Bai-Tap-Lon-\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.frmMain.resources
+D:\UTC-LTTQ\Bai tap lon\-Bai-Tap-Lon-\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.frmQuanLySan.resources
