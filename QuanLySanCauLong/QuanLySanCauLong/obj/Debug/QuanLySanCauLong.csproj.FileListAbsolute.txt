@@ -1,0 +1,9 @@
+D:\UTC-LTTQ\Bai tap lon\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\QuanLySanCauLong.exe.config
+D:\UTC-LTTQ\Bai tap lon\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\QuanLySanCauLong.exe
+D:\UTC-LTTQ\Bai tap lon\QuanLySanCauLong\QuanLySanCauLong\bin\Debug\QuanLySanCauLong.pdb
+D:\UTC-LTTQ\Bai tap lon\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.csproj.AssemblyReference.cache
+D:\UTC-LTTQ\Bai tap lon\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.Properties.Resources.resources
+D:\UTC-LTTQ\Bai tap lon\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.csproj.GenerateResource.cache
+D:\UTC-LTTQ\Bai tap lon\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.csproj.CoreCompileInputs.cache
+D:\UTC-LTTQ\Bai tap lon\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.exe
+D:\UTC-LTTQ\Bai tap lon\QuanLySanCauLong\QuanLySanCauLong\obj\Debug\QuanLySanCauLong.pdb
